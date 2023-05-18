@@ -8,7 +8,7 @@ Finally, run the Test File:
 ```bash
 yarn run ts-node-dev src/[FileName].ts
 # or
-yarn run ts-node-dev src/[FileName].ts
+npm run ts-node-dev src/[FileName].ts
 # or
-yarn run ts-node-dev src/[FileName].ts
+pnpm run ts-node-dev src/[FileName].ts
 ```
